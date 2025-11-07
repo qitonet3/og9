@@ -24,5 +24,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: qito/og9:latest
+          tags: qitoth/og9:latest
           platforms: linux/amd64
